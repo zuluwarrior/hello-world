@@ -2,5 +2,3 @@
 First hello world repo
 
 Hi Humans. Just following the tutorial.
-
-Some new text
